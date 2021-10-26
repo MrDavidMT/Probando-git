@@ -1,0 +1,5 @@
+primera linea
+seguunda 
+tercera
+cuarta
+archivo2
